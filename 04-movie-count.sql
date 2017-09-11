@@ -1,0 +1,2 @@
+-- The name and number of cities in each country. The column that contains the
+-- number of cities should be headed =city_count=.

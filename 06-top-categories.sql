@@ -1,0 +1,6 @@
+-- For each actor whose last name starts with =S=, the number of movies in
+-- which they appeared in each category.  Show the actor's first and last name,
+-- along with the category name and number of movies in that category in which
+-- the actor appeared. For a given actor, only show the categories in which
+-- they appeared in at least three movies. Order results alphabetically by last
+-- name and first name, then by decreasing number of movies.

@@ -1,0 +1,1 @@
+-- The ID and name of every category in the database.
