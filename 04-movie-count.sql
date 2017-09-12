@@ -1,2 +1,3 @@
--- The name and number of cities in each country. The column that contains the
--- number of cities should be headed =city_count=.
+-- For all actors, their first name, last name, and total number of movies in
+-- which they acted. Order results alphabetically by actor last name, then first
+-- name.
